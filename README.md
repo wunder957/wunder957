@@ -2,7 +2,13 @@
 
 - 👋 Hi, I’m @wunder957
 
-<!---
-wunder957/wunder957 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![wunder957's GitHub stats](https://github-readme-stats.vercel.app/api?username=wunder957&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wunder957&hide=javascript,css,html&layout=compact)
+
+Recently:
+
+- 💻 Researching [eBPF](https://ebpf.io/) for data security applications
+- 🔧 Developing on [sdgx](https://github.com/hitsz-ids/synthetic-data-generator), [duetector](https://github.com/hitsz-ids/duetector)
+- 📕 Learning and dive into Rust, Compiliers, OS
+
