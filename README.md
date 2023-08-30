@@ -8,6 +8,6 @@
 Recently:
 
 - 💻 Researching [eBPF](https://ebpf.io/) for data security applications
-- 🔧 Developing on [sdgx](https://github.com/hitsz-ids/synthetic-data-generator), [duetector](https://github.com/hitsz-ids/duetector)
+- 🔧 Developing on [duetector](https://github.com/hitsz-ids/duetector), a tools for data usage observability.
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 😄 Personal account: [Wh1isper](https://github.com/Wh1isper/), interesting things on it.
