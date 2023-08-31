@@ -1,7 +1,7 @@
 > 这世上的热闹出自孤单
 
 - 👋 Hi, I’m @wunder957, DevOps and Python engineer
-- 👷‍ [hitsz-ids](https://github.com/hitsz-ids)
+- 👷‍ Member of [hitsz-ids](https://github.com/hitsz-ids)
 
 ![wunder957's GitHub stats](https://github-readme-stats.vercel.app/api?username=wunder957&count_private=true)
 
