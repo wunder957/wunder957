@@ -11,3 +11,5 @@ Recently:
 - 🔧 Developing on [duetector](https://github.com/hitsz-ids/duetector), a tools for data usage observability.
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 😄 Personal account: [Wh1isper](https://github.com/Wh1isper/), interesting things on it.
+
+Access [my blog](https://wh1isper.github.io/) for my articles.
