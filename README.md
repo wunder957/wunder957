@@ -12,4 +12,4 @@ Recently:
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 😄 Personal account: [Wh1isper](https://github.com/Wh1isper/), interesting things on it.
 
-Access [my blog](https://wh1isper.github.io/) for my articles.
+[My personal blog](https://wh1isper.github.io/)
